@@ -17,7 +17,7 @@ A natural place to start when outlining the differences between Bayesians and Fr
 
 ## Practical Implications
 
-
+The practical implications of Bayesians versus frequentists rest upon making assumptions about unknown quantities. In the Bayesian framework, you make assumptions about unknown variables which you are attempting to estimate. For example, you might assume that the number of individuals who will buy a product can be represented by a binomial variable with parameter p. In contrast, the frequentists perspective does not allow embedding of prior beliefs such as this into statistical experiments and analyses.
 
 
 ## Summary
