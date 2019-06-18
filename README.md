@@ -13,7 +13,7 @@ You will be able to:
 
 ## Philosophical Interpretations
 
-A natural place to start when outlining the differences between Bayesians and Frequentists is to talk of their interpretation of probability itself. For frequentists, the probability of an event is the limit of the rate of occurrences of the event if the same scenario including context and assumptions were repeated ad infinitum. In contrast, Bayesians interpret probability as the level of confidence, or belief, in a particular event occurring. In many ways this makes a more natural 
+A natural place to start when outlining the differences between Bayesians and Frequentists is to talk of their interpretation of probability itself. For frequentists, the probability of an event is the limit of the rate of occurrences of the event if the same scenario including context and assumptions were repeated ad infinitum. In contrast, Bayesians interpret probability as the level of confidence, or belief, in a particular event occurring. In many ways this makes a more natural interpretation for rare events which cannot possibly reoccur in the same context and circumstances.
 
 ## Practical Implications
 
